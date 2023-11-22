@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thomas-hub-official, the official account for thomas-hub
+- 👋 Hi, I’m @Thomas-hub-official, the official account for thomas-hub.com
 - 💞️ I’m looking to collaborate on passionate programmers
 - 📫 How to reach me: thomas.luqiyu@gmail.com
 
